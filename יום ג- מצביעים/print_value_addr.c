@@ -1,3 +1,8 @@
+/*------------------------------------------------------
+* Filename: print_value_addr.c
+* Description: The program reads 2 arrays and prints the values ​​in them next to the cell address. Printing the arrays is implemented in 2 ways: by pointers and by [].
+* Author: Gali Amrani
+-------------------------------------------------------*/
 #include<stdio.h>
 int main(){
     int int_array[8];
