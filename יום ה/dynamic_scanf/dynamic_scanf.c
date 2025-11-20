@@ -55,6 +55,7 @@ int main(){
         return -1;
     }
     printf_s("%s", string);
+    free(string);
     return 0;
 
 }
